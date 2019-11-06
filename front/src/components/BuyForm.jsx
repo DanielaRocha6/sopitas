@@ -113,6 +113,7 @@ const BuyForm = props => {
       "merchant": {
          "apiLogin": "pRRXKOl8ikMmt9u",
          "apiKey": "4Vj8eK4rloUd272L48hsrarnUA"
+        // Deberían declarar esto como variables de entorno, no quemarlas
       },
       "transaction": {
          "order": {
