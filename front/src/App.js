@@ -46,6 +46,7 @@ function App() {
       <div className="App container-fluid">
         <Header />
         <Navbar />
+  // Deberían asignar algún route a '/login' porque no lleva a ningún contenido, solo muestra el header y el footer
         <Route
           exact
           path="/"
